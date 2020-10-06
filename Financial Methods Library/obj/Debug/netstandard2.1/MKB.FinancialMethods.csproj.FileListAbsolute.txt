@@ -1,0 +1,9 @@
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\bin\Debug\netstandard2.1\MKB.FinancialMethods.deps.json
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\bin\Debug\netstandard2.1\MKB.FinancialMethods.dll
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\bin\Debug\netstandard2.1\MKB.FinancialMethods.pdb
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.csprojAssemblyReference.cache
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.AssemblyInfoInputs.cache
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.AssemblyInfo.cs
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.csproj.CoreCompileInputs.cache
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.dll
+D:\DEV\Programs\Financial Methods Library\Financial Methods Library\obj\Debug\netstandard2.1\MKB.FinancialMethods.pdb

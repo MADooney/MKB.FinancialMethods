@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>MKB.FinancialMethods</RootNamespace>
+    <AssemblyName>MKB.FinancialMethods</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>.NET Standard c# class library that contains the Financial Methods found in Visual Basic Financial class.</Description>
+  </PropertyGroup>
+
+</Project>

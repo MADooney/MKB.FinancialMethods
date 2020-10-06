@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MKB.FinancialMethods</id>
+    <version>1.0.0</version>
+    <authors>MKB.FinancialMethods</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Standard c# class library that contains the Financial Methods found in Visual Basic Financial class.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DEV\Programs\Financial Methods Library\Financial Methods Library\bin\Release\netstandard2.1\MKB.FinancialMethods.dll" target="lib\netstandard2.1\MKB.FinancialMethods.dll" />
+  </files>
+</package>
